@@ -1,0 +1,156 @@
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.exe
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.deps.json
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.runtimeconfig.json
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.runtimeconfig.dev.json
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.pdb
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.csproj.AssemblyReference.cache
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.csproj.GenerateResource.cache
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.AssemblyInfoInputs.cache
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.AssemblyInfo.cs
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.csproj.CoreCompileInputs.cache
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.pdb
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.genruntimeconfig.cache
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.flogin.resources
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.Manegement.resources
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.Infoaccount.resources
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.AdminSet.resources
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.csproj.CopyComplete
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Assessment.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Assessment.Types.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.SqlParser.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.ConnectionInfo.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Dmf.Common.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Dmf.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.Assessment.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.Collector.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.HadrData.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.HadrModel.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.XEvent.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.PolicyEnum.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Smo.Notebook.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Smo.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.SmoExtended.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.SqlEnum.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.WmiEnum.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\Hoc CNTT\自分の勉強すること\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.exe
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.deps.json
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.runtimeconfig.json
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.runtimeconfig.dev.json
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\WinForm_MNM.pdb
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.Identity.Client.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Logging.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Protocols.OpenIdConnect.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.IdentityModel.Tokens.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Assessment.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Assessment.Types.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.SqlParser.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.Data.Tools.Sql.BatchParser.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.ConnectionInfo.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Dmf.Common.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Dmf.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.Assessment.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.Collector.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.CollectorEnum.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.HadrData.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.HadrModel.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.RegisteredServers.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.Sdk.Sfc.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.SmoMetadataProvider.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.SqlScriptPublish.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.XEvent.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.XEventDbScoped.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.XEventDbScopedEnum.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Management.XEventEnum.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.PolicyEnum.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.ServiceBrokerEnum.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Smo.Notebook.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.Smo.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.SmoExtended.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.SqlEnum.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.SqlWmiManagement.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Microsoft.SqlServer.WmiEnum.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\System.Data.OleDb.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\System.Data.SqlClient.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\System.IdentityModel.Tokens.Jwt.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\System.Management.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\System.Runtime.Caching.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp3.1\Microsoft.Data.SqlClient.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-arm\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.pdb
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-arm64\native\sni.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x64\native\sni.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win-x86\native\sni.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Data.OleDb.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\unix\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.1\System.Data.SqlClient.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netcoreapp2.0\System.Management.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\bin\Debug\netcoreapp3.1\runtimes\win\lib\netstandard2.0\System.Runtime.Caching.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.csproj.AssemblyReference.cache
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.AdminSet.resources
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.flogin.resources
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.Infoaccount.resources
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.Manegement.resources
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.csproj.GenerateResource.cache
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.AssemblyInfoInputs.cache
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.AssemblyInfo.cs
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.csproj.CoreCompileInputs.cache
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.csproj.CopyComplete
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.dll
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.pdb
+D:\CNTT\abc\WinForm_MNM\WinForm_MNM\obj\Debug\netcoreapp3.1\WinForm_MNM.genruntimeconfig.cache
