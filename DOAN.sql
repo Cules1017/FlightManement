@@ -1,5 +1,5 @@
 ﻿CREATE DATABASE FlightManager
-
+GO
 CREATE TABLE KhachHang
 (
 	MaKH		CHAR(8) PRIMARY KEY,
